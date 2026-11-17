@@ -3,7 +3,7 @@ name = "SigmaOS-vdpau"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "vdpau component"
+description = "VDPAU"
 upstream = []
 
 [contract]
